@@ -1,0 +1,383 @@
+2025-11-06 02:03:21,183 14304 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:03:21,184 14304 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:03:21,184 14304 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:03:21,184 14304 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:03:21,184 14304 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:03:21,184 14304 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:03:21,184 14304 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:03:21,185 14304 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:03:21,186 14304 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:03:21,186 14304 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:03:21,483 14304 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:03:22,152 14304 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:03:22,156 14304 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:03:22,159 14304 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:03:23,014 14304 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:04:22,225 14304 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:04:23,291 14304 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:04:26,861 14304 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:04:26,861 14304 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:04:27,102 14304 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 15876)> 
+2025-11-06 02:04:27,103 14304 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 15876)> (False) 
+2025-11-06 02:04:27,103 14304 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 17104)> (True) 
+2025-11-06 02:04:27,103 14304 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 12476)> (True) 
+2025-11-06 02:04:27,104 14304 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:04:27,117 14304 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:05:26,007 1808 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:05:26,008 1808 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:05:26,008 1808 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:05:26,008 1808 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:05:26,009 1808 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:05:26,009 1808 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:05:26,009 1808 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:05:26,009 1808 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:05:26,009 1808 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:05:26,010 1808 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:05:26,314 1808 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:05:26,884 1808 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:05:26,889 1808 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:05:26,892 1808 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:05:27,737 1808 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:05:46,713 1808 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:05:46,714 1808 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:05:46,764 1808 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 16796)> 
+2025-11-06 02:05:46,765 1808 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 16796)> (False) 
+2025-11-06 02:05:46,765 1808 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 1736)> (True) 
+2025-11-06 02:05:46,765 1808 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 16676)> (True) 
+2025-11-06 02:05:46,766 1808 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:05:46,781 1808 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:06:03,289 6440 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:06:03,290 6440 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:06:03,290 6440 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:06:03,290 6440 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:06:03,290 6440 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:06:03,290 6440 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:06:03,291 6440 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:06:03,291 6440 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:06:03,291 6440 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:06:03,291 6440 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:06:03,586 6440 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:06:04,149 6440 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:06:04,154 6440 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:06:04,156 6440 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:06:04,998 6440 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:06:59,684 6440 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:06:59,685 6440 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:07:00,077 6440 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 2664)> 
+2025-11-06 02:07:00,153 6440 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 2664)> (False) 
+2025-11-06 02:07:00,154 6440 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 7380)> (True) 
+2025-11-06 02:07:00,154 6440 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 14764)> (True) 
+2025-11-06 02:07:00,155 6440 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:07:00,171 6440 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:07:44,963 18516 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:07:44,963 18516 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:07:44,963 18516 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:07:44,963 18516 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:07:44,964 18516 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:07:44,964 18516 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:07:44,964 18516 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:07:44,964 18516 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:07:44,964 18516 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:07:44,965 18516 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:07:45,267 18516 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:07:45,924 18516 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:07:45,929 18516 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:07:45,931 18516 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:07:46,776 18516 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:08:45,997 18516 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:08:47,064 18516 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:08:47,527 18516 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:08:47,764 18516 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:08:47,859 18516 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 16016)> 
+2025-11-06 02:08:47,860 18516 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 16016)> (False) 
+2025-11-06 02:08:47,860 18516 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 11752)> (True) 
+2025-11-06 02:08:47,860 18516 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 16892)> (True) 
+2025-11-06 02:08:47,861 18516 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:08:47,876 18516 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:10:06,985 7016 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:10:06,986 7016 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:10:06,986 7016 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:10:06,986 7016 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:10:06,986 7016 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:10:06,986 7016 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:10:06,987 7016 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:10:06,987 7016 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:10:06,987 7016 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:10:06,987 7016 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:10:07,282 7016 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:10:07,929 7016 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:10:07,933 7016 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:10:07,936 7016 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:10:08,796 7016 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:10:18,403 16216 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:10:18,404 16216 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:10:18,404 16216 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:10:18,404 16216 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:10:18,404 16216 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:10:18,404 16216 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:10:18,405 16216 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:10:18,405 16216 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:10:18,405 16216 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:10:18,406 16216 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:10:18,711 16216 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:10:19,286 16216 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:10:19,290 16216 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:10:19,293 16216 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:10:20,127 16216 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:11:08,001 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:11:09,168 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:11:13,961 16216 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:11:13,961 16216 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:11:14,199 16216 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 220)> 
+2025-11-06 02:11:14,200 16216 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 220)> (False) 
+2025-11-06 02:11:14,200 16216 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 18604)> (True) 
+2025-11-06 02:11:14,200 16216 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 15792)> (True) 
+2025-11-06 02:11:14,201 16216 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:11:14,215 16216 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:11:54,480 4552 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:11:54,481 4552 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:11:54,481 4552 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:11:54,481 4552 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:11:54,481 4552 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:11:54,481 4552 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:11:54,482 4552 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:11:54,482 4552 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:11:54,482 4552 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:11:54,482 4552 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:11:54,780 4552 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:11:55,646 4552 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:11:55,650 4552 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:11:55,653 4552 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:11:56,505 4552 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:12:08,003 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:12:10,179 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:12:55,816 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:12:56,884 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:13:08,003 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:13:11,191 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:13:55,817 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:13:58,552 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:14:08,004 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:14:12,202 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:14:55,817 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:15:00,035 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:15:08,004 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:15:13,213 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:15:55,818 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:16:01,047 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:16:08,005 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:16:14,225 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:16:55,818 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:17:02,059 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:17:08,006 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:17:15,237 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:17:55,819 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:18:03,070 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:18:08,006 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:18:16,250 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:18:55,819 4552 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:19:04,081 4552 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:19:08,007 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:19:17,261 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:19:23,976 4552 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:19:23,977 4552 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:19:24,083 4552 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 4964)> 
+2025-11-06 02:19:24,084 4552 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 4964)> (False) 
+2025-11-06 02:19:24,084 4552 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 5936)> (True) 
+2025-11-06 02:19:24,084 4552 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 17268)> (True) 
+2025-11-06 02:19:24,085 4552 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:19:24,101 4552 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:19:28,719 6984 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:19:28,719 6984 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:19:28,719 6984 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:19:28,720 6984 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:19:28,720 6984 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:19:28,720 6984 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:19:28,720 6984 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:19:28,721 6984 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:19:28,721 6984 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:19:28,721 6984 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:19:29,035 6984 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:19:29,735 6984 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:19:29,739 6984 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:19:29,742 6984 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:19:30,680 6984 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:20:08,007 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:20:18,273 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:20:22,472 6984 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:20:22,473 6984 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:20:22,751 6984 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 11280)> 
+2025-11-06 02:20:22,752 6984 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 11280)> (False) 
+2025-11-06 02:20:22,752 6984 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 6168)> (True) 
+2025-11-06 02:20:22,752 6984 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 15716)> (True) 
+2025-11-06 02:20:22,753 6984 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:20:22,770 6984 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:20:33,155 17804 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:20:33,156 17804 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:20:33,156 17804 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:20:33,156 17804 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:20:33,156 17804 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:20:33,156 17804 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:20:33,157 17804 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:20:33,157 17804 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:20:33,157 17804 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:20:33,158 17804 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:20:33,464 17804 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:20:34,089 17804 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:20:34,093 17804 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:20:34,096 17804 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:20:34,957 17804 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:21:08,009 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:21:19,285 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:21:34,262 17804 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:21:35,329 17804 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:21:35,725 17804 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:21:35,725 17804 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:21:36,038 17804 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 16792)> 
+2025-11-06 02:21:36,039 17804 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 16792)> (False) 
+2025-11-06 02:21:36,039 17804 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 19732)> (True) 
+2025-11-06 02:21:36,039 17804 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 16980)> (True) 
+2025-11-06 02:21:36,040 17804 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:21:36,057 17804 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:22:08,010 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:22:20,296 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:23:08,010 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:23:21,307 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:24:02,213 16936 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:24:02,214 16936 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:24:02,214 16936 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:24:02,214 16936 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:24:02,214 16936 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:24:02,214 16936 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:24:02,215 16936 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:24:02,215 16936 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:24:02,215 16936 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:24:02,215 16936 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:24:04,248 16936 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:24:05,014 16936 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:24:05,037 16936 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:24:05,045 16936 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:24:05,883 16936 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:24:08,010 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:24:22,319 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:25:05,116 16936 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:25:06,185 16936 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:25:08,011 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:25:23,330 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:26:05,117 16936 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:26:05,735 16936 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:26:05,736 16936 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:26:06,039 16936 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 14808)> 
+2025-11-06 02:26:06,040 16936 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 14808)> (False) 
+2025-11-06 02:26:06,040 16936 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 18904)> (True) 
+2025-11-06 02:26:06,040 16936 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 17364)> (True) 
+2025-11-06 02:26:06,041 16936 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:26:06,057 16936 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:26:08,011 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:26:24,126 18512 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:26:24,126 18512 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:26:24,127 18512 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:26:24,127 18512 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:26:24,127 18512 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:26:24,127 18512 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:26:24,127 18512 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:26:24,128 18512 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:26:24,128 18512 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:26:24,128 18512 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:26:24,342 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:26:24,429 18512 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:26:25,090 18512 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:26:25,094 18512 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:26:25,097 18512 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:26:25,957 18512 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:27:08,012 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:27:25,261 18512 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:27:25,353 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:27:26,426 18512 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:28:08,012 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:28:25,261 18512 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:28:26,364 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:28:27,437 18512 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:28:41,673 18512 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:28:41,674 18512 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:28:42,132 18512 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 17712)> 
+2025-11-06 02:28:42,133 18512 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 17712)> (False) 
+2025-11-06 02:28:42,133 18512 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 14384)> (True) 
+2025-11-06 02:28:42,133 18512 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 14352)> (True) 
+2025-11-06 02:28:42,134 18512 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:28:42,149 18512 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:28:49,285 19204 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:28:49,286 19204 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:28:49,286 19204 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:28:49,286 19204 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:28:49,286 19204 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:28:49,287 19204 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:28:49,287 19204 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:28:49,287 19204 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:28:49,287 19204 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:28:49,288 19204 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:28:49,587 19204 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:28:50,275 19204 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:28:50,280 19204 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:28:50,282 19204 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:28:51,134 19204 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:29:08,013 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:29:27,376 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:29:50,349 19204 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:29:51,518 19204 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:30:08,013 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:30:28,388 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:30:41,780 19204 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:30:41,781 19204 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:30:41,793 19204 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 2616)> 
+2025-11-06 02:30:41,794 19204 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 2616)> (False) 
+2025-11-06 02:30:41,794 19204 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 4024)> (True) 
+2025-11-06 02:30:41,794 19204 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 19004)> (True) 
+2025-11-06 02:30:41,795 19204 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:30:41,814 19204 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:31:08,014 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:31:12,362 18300 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2025-11-06 02:31:12,363 18300 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2025-11-06 02:31:12,363 18300 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:31:12,363 18300 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2025-11-06 02:31:12,363 18300 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2025-11-06 02:31:12,363 18300 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2025-11-06 02:31:12,364 18300 INFO ? odoo: Odoo version 17.0 
+2025-11-06 02:31:12,364 18300 INFO ? odoo: Using configuration file at G:\Work\Oddo17\odoo17\setup\odoo.conf 
+2025-11-06 02:31:12,364 18300 INFO ? odoo: addons paths: ['G:\\Work\\Oddo17\\odoo17\\odoo\\addons', 'c:\\users\\hesham\\appdata\\local\\openerp s.a\\odoo\\addons\\17.0', 'g:\\work\\oddo17\\odoo17\\addons', 'g:\\work\\oddo17\\odoo17\\odoo\\addons'] 
+2025-11-06 02:31:12,365 18300 INFO ? odoo: database: odoo_user@localhost:5432 
+2025-11-06 02:31:12,727 18300 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-11-06 02:31:13,475 18300 DEBUG ? odoo.service.server: Setting signal handlers 
+2025-11-06 02:31:13,480 18300 DEBUG ? odoo.service.server: cron0 started! 
+2025-11-06 02:31:13,483 18300 DEBUG ? odoo.service.server: cron1 started! 
+2025-11-06 02:31:14,332 18300 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-KK30O2M:8069 
+2025-11-06 02:31:29,399 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:32:08,015 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:32:13,659 18300 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:32:14,832 18300 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:32:30,411 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:33:08,015 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:33:13,661 18300 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:33:15,844 18300 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:33:31,422 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:34:08,015 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:34:13,661 18300 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:34:16,855 18300 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:34:32,434 7016 DEBUG ? odoo.service.server: cron1 polling for jobs 
+2025-11-06 02:34:45,882 18300 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:34:45,882 18300 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:34:46,098 18300 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 16256)> 
+2025-11-06 02:34:46,099 18300 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 16256)> (False) 
+2025-11-06 02:34:46,099 18300 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 15768)> (True) 
+2025-11-06 02:34:46,099 18300 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 10096)> (True) 
+2025-11-06 02:34:46,101 18300 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:34:46,117 18300 DEBUG ? odoo.service.server: -- 
+2025-11-06 02:35:08,016 7016 DEBUG ? odoo.service.server: cron0 polling for jobs 
+2025-11-06 02:35:11,031 7016 INFO ? odoo.service.server: Initiating shutdown 
+2025-11-06 02:35:11,031 7016 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-11-06 02:35:11,138 7016 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 16184)> 
+2025-11-06 02:35:11,139 7016 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 16184)> (False) 
+2025-11-06 02:35:11,139 7016 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron0, started daemon 2680)> (True) 
+2025-11-06 02:35:11,139 7016 DEBUG ? odoo.service.server: process <Thread(odoo.service.cron.cron1, started daemon 14816)> (True) 
+2025-11-06 02:35:11,139 7016 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-11-06 02:35:11,155 7016 DEBUG ? odoo.service.server: -- 
