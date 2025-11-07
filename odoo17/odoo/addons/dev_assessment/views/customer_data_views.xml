@@ -1,0 +1,85 @@
+
+<odoo>
+    <record id="action_customer_data" model="ir.actions.act_window">
+        <field name="name">Customer Data Records</field>
+        <field name="res_model">dev.assessment.customer</field>
+        <field name="view_mode">kanban,tree,form</field>
+    </record>
+
+    <menuitem id="menu_customer_root" name="Assessment Center" sequence="10"/>
+    <menuitem id="menu_customer_records" name="Customer Records" parent="menu_customer_root" action="action_customer_data" sequence="1"/>
+
+    <record id="view_customer_data_tree" model="ir.ui.view">
+        <field name="name">dev.assessment.customer.tree</field>
+        <field name="model">dev.assessment.customer</field>
+        <field name="arch" type="xml">
+            <tree string="Customer Records">
+                <field name="name"/>
+                <field name="gender"/>
+                <field name="country_id"/>
+                <field name="joining_date"/>
+                <field name="last_update_date"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="view_customer_data_kanban" model="ir.ui.view">
+        <field name="name">dev.assessment.customer.kanban</field>
+        <field name="model">dev.assessment.customer</field>
+        <field name="arch" type="xml">
+            <kanban default_group_by="gender">
+                <field name="name"/>
+                <field name="gender"/>
+                <field name="country_id"/>
+                <templates>
+                    <t t-name="kanban-box">
+                        <div t-attf-class="oe_kanban_global_click">
+                            <div class="oe_kanban_details">
+                                <strong><field name="name"/></strong>
+                                <ul>
+                                    <li>Gender: <field name="gender"/></li>
+                                    <li>Country: <field name="country_id"/></li>
+                                </ul>
+                                <field name="last_update_date"/>
+                            </div>
+                        </div>
+                    </t>
+                </templates>
+            </kanban>
+        </field>
+    </record>
+
+    <record id="view_customer_data_form" model="ir.ui.view">
+        <field name="name">dev.assessment.customer.form</field>
+        <field name="model">dev.assessment.customer</field>
+        <field name="arch" type="xml">
+            <form string="Customer Details">
+                <sheet>
+                    <group>
+                        <group>
+                            <field name="name"/>
+                            <field name="gender"/>
+                            <field name="country_id"/>
+                            <field name="joining_date"/>
+                        </group>
+                        <group>
+                            <field name="company_ids" widget="many2many_tags"/>
+                            <field name="last_update_date"/>
+                        </group>
+                    </group>
+
+                    <notebook>
+                        <page name="comments_page" string="Comments/Notes">
+                            <field name="comment_notes"/>
+                        </page>
+                    </notebook>
+
+                </sheet>
+                <div class="oe_chatter">
+                    <field name="message_follower_ids" groups="base.group_user"/>
+                    <field name="message_ids"/>
+                </div>
+            </form>
+        </field>
+    </record>
+</odoo>
